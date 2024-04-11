@@ -1,0 +1,80 @@
+{
+    "flutter mane": [
+      {
+        "pokemon_name": "Flutter Mane",
+        "builds": {
+          "1": {  
+            "build_name":"Choice specs build",
+            "item": "choice specs",
+            "nature":"timid",
+            "tera":"fairy",
+            "ability":"protosynthesis",
+            "moves":{
+              "move1":"Moonblast",
+              "move2":"Shadow Ball",
+              "move3":"Dazzling Gleam",
+              "move4":"Icy Wind / Thunderbolt / Power Gem"
+              
+            },
+            "evs":{
+              "HP":"124",
+              "DEF":"204",
+              "SPA":"60",
+              "SPD":"4",
+              "SPEED":"124"
+              
+            }
+            
+            
+          },
+          "2": {
+           "build_name":"offensive",
+            "item": "choice specs",
+            "nature":"timid",
+            "tera":"fairy",
+            "ability":"protosynthesis",
+            "moves":{
+              "move1":"Moonblast",
+              "move2":"Shadow Ball",
+              "move3":"Dazzling Gleam",
+              "move4":"Protect"
+              
+            },
+            "evs":{
+              "HP":"116",
+              "DEF":"76",
+              "SPA":"116",
+              "SPD":"4",
+              "SPEED":"196"
+            }
+          },
+          "3":{
+            "build_name":"speed support",
+            "item": "booster energy",
+            "nature":"timid",
+            "tera":"fairy",
+            "ability":"protosynthesis",
+            "moves":{
+              "move1":"Dazzling Gleam / Moonblast",
+              "move2":"Shadow Ball",
+              "move3":"Icy Wind",
+              "move4":"Protect"
+              
+            },
+            "evs":{
+              "HP":"116",
+              "DEF":"76",
+              "SPA":"116",
+              "SPD":"4",
+              "SPEED":"196"
+            }
+            
+          }
+
+        }
+      }
+
+    ]
+
+    
+  }
