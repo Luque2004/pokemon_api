@@ -216,7 +216,313 @@
     }
     
 
+  ],
+   "urshifu-rapid-strike": [
+    {
+      "pokemon_name": "Urshifu Rapid",
+      "builds": {
+        "1": {  
+          "build_name":"Choice Scarf Build",
+          "item": "choice scarf",
+          "nature":"Adamant",
+          "tera":"water / poison / grass",
+          "ability":"unseen fist",
+          "moves":{
+            "move1":"Surging Strikes",
+            "move2":"Close Combat",
+            "move3":"U-turn / Ice Spinner",
+            "move4":"Aqua Jet / Ice Spinner"
+            
+          },
+          "evs":{
+            "HP":"44",
+            "AT":"156",
+            "DEF":"4",
+            "SPA":"0",
+            "SPD":"92",
+            "SPEED":"212"
+            
+          }
+          
+          
+        },
+        "2": {
+         "build_name":"Mystic Water Build",
+          "item": "mystic water",
+          "nature":"Adamant",
+          "tera":"water",
+          "ability":"unseen fist",
+          "moves":{
+            "move1":"Surging Strikes",
+            "move2":"Close Combat",
+            "move3":"Detect",
+            "move4":"Aqua Jet"
+            
+          },
+          "evs":{
+            "HP":"60",
+            "AT":"156",
+            "DEF":"20",
+            "SPA":"0",
+            "SPD":"196",
+            "SPEED":"76"
+          }
+        }
+    
+
+      }
+    }
+    
+
+  ],
+    "rillaboom": [
+    {
+      "pokemon_name": "Rillaboom",
+      "builds": {
+        "1": {  
+          "build_name":"Offensive Pivot",
+          "item": "assault vest",
+          "nature":"Adamant",
+          "tera":"grass / fire",
+          "ability":"grassy surge",
+          "moves":{
+            "move1":"Fake Out",
+            "move2":"Wood Hammer",
+            "move3":"Grassy Glide",
+            "move4":"U-turn / High Horsepower"
+            
+          },
+          "evs":{
+            "HP":"252",
+            "AT":"148",
+            "DEF":"44",
+            "SPA":"0",
+            "SPD":"60",
+            "SPEED":"4"
+            
+          }
+          
+          
+        },
+        "2": {
+         "build_name":"Offensive Nuke",
+          "item": "miracle seed",
+          "nature":"Adamant",
+          "tera":"grass",
+          "ability":"Unseen Fist",
+          "moves":{
+            "move1":"Fake Out",
+            "move2":"Grassy Glide",
+            "move3":"Wood Hammer",
+            "move4":"Protect / U-turn / High Horsepower"
+            
+          },
+          "evs":{
+            "HP":"236",
+            "AT":"252",
+            "DEF":"4",
+            "SPA":"0",
+            "SPD":"12",
+            "SPEED":"4"
+          }
+        }
+    
+
+      }
+    }
+    
+
+  ],
+  "chien-pao": [
+    {
+      "pokemon_name": "Chien-Pao",
+      "builds": {
+        "1": {  
+          "build_name":"Glass Cannon",
+          "item": "focus sash",
+          "nature":"Adamant / Jolly",
+          "tera":"Ghost / stellar",
+          "ability":"sword of ruin",
+          "moves":{
+            "move1":"Icicle Crash / Ice Spinner",
+            "move2":"Sucker Punch",
+            "move3":"Sacred Sword",
+            "move4":"Protect"
+            
+          },
+          "evs":{
+            "HP":"0",
+            "AT":"252",
+            "DEF":"4",
+            "SPA":"0",
+            "SPD":"0",
+            "SPEED":"252"
+            
+          }
+          
+          
+        }
+      }
+    }
+    
+
+  ],
+    "ogerpon-wellspring": [
+    {
+      "pokemon_name": "Ogerpon Wellspring",
+      "builds": {
+        "1": {  
+          "build_name":"Sword Dance Build",
+          "item": "wellspring mask",
+          "nature":"Jolly",
+          "tera":"water",
+          "ability":"water absorb",
+          "moves":{
+            "move1":"Swords Dance",
+            "move2":"Ivy Cudgel",
+            "move3":"Power Wip / Horn leech",
+            "move4":"Play Rough / Encore / Knock Off"
+            
+          },
+          "evs":{
+            "HP":"0",
+            "AT":"252",
+            "DEF":"0",
+            "SPA":"0",
+            "SPD":"4",
+            "SPEED":"252"
+            
+          }
+          
+          
+        },
+        "2": {
+         "build_name":"Offensive Pivot",
+          "item": "wellspring mask",
+          "nature":"Jolly",
+          "tera":"water",
+          "ability":"water absorb",
+          "moves":{
+            "move1":"Ivy Cudgel",
+            "move2":"Horn leech",
+            "move3":"U-turn",
+            "move4":"Taunt / encore"
+            
+          },
+          "evs":{
+            "HP":"0",
+            "AT":"252",
+            "DEF":"0",
+            "SPA":"0",
+            "SPD":"4",
+            "SPEED":"252"
+          }
+        }
+    
+
+      }
+    }
+    
+
+  ],
+    "tornadus-incarnate": [
+    {
+      "pokemon_name": "Tornadus",
+      "builds": {
+        "1": {  
+          "build_name":"Bulky Tailwind",
+          "item": "rocky helmet / covert cloak / mental herb",
+          "nature":"Calm",
+          "tera":"dark / steel",
+          "ability":"prankster",
+          "moves":{
+            "move1":"Bleakwind Storm",
+            "move2":"Tailwind",
+            "move3":"Taunt / Protect",
+            "move4":"Rain Dance / Sunny Day"
+            
+          },
+          "evs":{
+            "HP":"252",
+            "AT":"0",
+            "DEF":"92",
+            "SPA":"4",
+            "SPD":"132",
+            "SPEED":"28"
+            
+          }
+          
+          
+        },
+        "2": {
+         "build_name":"Offensive Tailwind",
+          "item": "focus sash",
+          "nature":"Timid",
+          "tera":"ghost / flying",
+          "ability":"prankster",
+          "moves":{
+            "move1":"Tailwind",
+            "move2":"Bleakwind Storm",
+            "move3":"Icy Wind / Taunt / Rain Dance",
+            "move4":"Protect"
+            
+          },
+          "evs":{
+            "HP":"0",
+            "AT":"0",
+            "DEF":"0",
+            "SPA":"252",
+            "SPD":"4",
+            "SPEED":"252"
+          }
+        }
+    
+
+      }
+    }
+    
+
+  ],
+    "landorus-incarnate": [
+    {
+      "pokemon_name": "Landorus",
+      "builds": {
+        "1": {  
+          "build_name":"Life Orb Build",
+          "item": "life orb",
+          "nature":"Modest",
+          "tera":"poison",
+          "ability":"sheer force",
+          "moves":{
+            "move1":"Earth Power",
+            "move2":"Sludge Bomb",
+            "move3":"Substitute  / Sandsear Storm",
+            "move4":"Protect"
+            
+          },
+          "evs":{
+            "HP":"132 ",
+            "AT":"0",
+            "DEF":"4",
+            "SPA":"116",
+            "SPD":"4",
+            "SPEED":"252"
+            
+          }
+          
+          
+        }
+       
+    
+
+      }
+    }
+    
+
   ]
+  
+
+
 
   
   
