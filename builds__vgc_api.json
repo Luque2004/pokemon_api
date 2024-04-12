@@ -158,7 +158,66 @@
     }
     
 
+  ],
+    "incineroar": [
+    {
+      "pokemon_name": "Incineroar",
+      "builds": {
+        "1": {  
+          "build_name":"Bulky Support",
+          "item": "safety googles / sitrus berry",
+          "nature":"Careful",
+          "tera":"ghost / grass / fairy",
+          "ability":"intimidate",
+          "moves":{
+            "move1":"Fake Out",
+            "move2":"Flare Blitz",
+            "move3":"Parting Shot",
+            "move4":"Knock Off"
+            
+          },
+          "evs":{
+            "HP":"252",
+            "AT":"4",
+            "DEF":"140",
+            "SPA":"0",
+            "SPD":"76",
+            "SPEED":"36"
+            
+          }
+          
+          
+        },
+        "2": {
+         "build_name":"Assault Vest Pivot",
+          "item": "assault vest",
+          "nature":"Impish",
+          "tera":"grass / fairy",
+          "ability":"Intimidate",
+          "moves":{
+            "move1":"Fake Out",
+            "move2":"Flare Blitz",
+            "move3":"U-turn",
+            "move4":"Knock Off"
+            
+          },
+          "evs":{
+            "HP":"252",
+            "AT":"20",
+            "DEF":"156",
+            "SPA":"0",
+            "SPD":"44",
+            "SPEED":"36"
+          }
+        }
+    
+
+      }
+    }
+    
+
   ]
+
   
   
 
