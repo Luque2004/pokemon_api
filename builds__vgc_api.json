@@ -6,7 +6,7 @@
         "1": {  
           "build_name":"Choice specs build",
           "item": "choice specs",
-          "nature":"timid",
+          "nature":"Timid",
           "tera":"fairy",
           "ability":"protosynthesis",
           "moves":{
@@ -31,7 +31,7 @@
         "2": {
          "build_name":"offensive",
           "item": "choice specs",
-          "nature":"timid",
+          "nature":"Timid",
           "tera":"fairy",
           "ability":"protosynthesis",
           "moves":{
@@ -53,7 +53,7 @@
         "3":{
           "build_name":"speed support",
           "item": "booster energy",
-          "nature":"timid",
+          "nature":"Timid",
           "tera":"fairy",
           "ability":"protosynthesis",
           "moves":{
@@ -133,7 +133,7 @@
         "3":{
           "build_name":"Attack",
           "item": "booster energy",
-          "nature":"timid",
+          "nature":"Timid",
           "tera":"electric / grass",
           "ability":"protosynthesis",
           "moves":{
