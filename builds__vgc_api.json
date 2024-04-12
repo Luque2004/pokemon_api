@@ -1,83 +1,166 @@
 {
-    "flutter-mane": [
-      {
-        "pokemon_name": "Flutter Mane",
-        "builds": {
-          "1": {  
-            "build_name":"Choice specs build",
-            "item": "choice specs",
-            "nature":"timid",
-            "tera":"fairy",
-            "ability":"protosynthesis",
-            "moves":{
-              "move1":"Moonblast",
-              "move2":"Shadow Ball",
-              "move3":"Dazzling Gleam",
-              "move4":"Icy Wind / Thunderbolt / Power Gem"
-              
-            },
-            "evs":{
-              "HP":"124",
-              "AT":"0",
-              "DEF":"204",
-              "SPA":"60",
-              "SPD":"4",
-              "SPEED":"124"
-              
-            }
-            
+  "flutter-mane": [
+    {
+      "pokemon_name": "Flutter Mane",
+      "builds": {
+        "1": {  
+          "build_name":"Choice specs build",
+          "item": "choice specs",
+          "nature":"timid",
+          "tera":"fairy",
+          "ability":"protosynthesis",
+          "moves":{
+            "move1":"Moonblast",
+            "move2":"Shadow Ball",
+            "move3":"Dazzling Gleam",
+            "move4":"Icy Wind / Thunderbolt / Power Gem"
             
           },
-          "2": {
-           "build_name":"offensive",
-            "item": "choice specs",
-            "nature":"timid",
-            "tera":"fairy",
-            "ability":"protosynthesis",
-            "moves":{
-              "move1":"Moonblast",
-              "move2":"Shadow Ball",
-              "move3":"Dazzling Gleam",
-              "move4":"Protect"
-              
-            },
-            "evs":{
-              "HP":"116",
-              "AT":"0",
-              "DEF":"76",
-              "SPA":"116",
-              "SPD":"4",
-              "SPEED":"196"
-            }
-          },
-          "3":{
-            "build_name":"speed support",
-            "item": "booster energy",
-            "nature":"timid",
-            "tera":"fairy",
-            "ability":"protosynthesis",
-            "moves":{
-              "move1":"Dazzling Gleam / Moonblast",
-              "move2":"Shadow Ball",
-              "move3":"Icy Wind",
-              "move4":"Protect"
-              
-            },
-            "evs":{
-              "HP":"116",
-              "AT":"0",
-              "DEF":"76",
-              "SPA":"116",
-              "SPD":"4",
-              "SPEED":"196"
-            }
+          "evs":{
+            "HP":"124",
+            "AT":"0",
+            "DEF":"204",
+            "SPA":"60",
+            "SPD":"4",
+            "SPEED":"124"
             
           }
-
+          
+          
+        },
+        "2": {
+         "build_name":"offensive",
+          "item": "choice specs",
+          "nature":"timid",
+          "tera":"fairy",
+          "ability":"protosynthesis",
+          "moves":{
+            "move1":"Moonblast",
+            "move2":"Shadow Ball",
+            "move3":"Dazzling Gleam",
+            "move4":"Protect"
+            
+          },
+          "evs":{
+            "HP":"116",
+            "AT":"0",
+            "DEF":"76",
+            "SPA":"116",
+            "SPD":"4",
+            "SPEED":"196"
+          }
+        },
+        "3":{
+          "build_name":"speed support",
+          "item": "booster energy",
+          "nature":"timid",
+          "tera":"fairy",
+          "ability":"protosynthesis",
+          "moves":{
+            "move1":"Dazzling Gleam / Moonblast",
+            "move2":"Shadow Ball",
+            "move3":"Icy Wind",
+            "move4":"Protect"
+            
+          },
+          "evs":{
+            "HP":"116",
+            "AT":"0",
+            "DEF":"76",
+            "SPA":"116",
+            "SPD":"4",
+            "SPEED":"196"
+          }
+          
         }
+
       }
-
-    ]
-
+    }
     
-  }
+
+  ],
+    "raging-bolt": [
+    {
+      "pokemon_name": "Raging Bolt",
+      "builds": {
+        "1": {  
+          "build_name":"Assault Vest build",
+          "item": "Assault Vest",
+          "nature":"Modest",
+          "tera":"fairy",
+          "ability":"protosynthesis",
+          "moves":{
+            "move1":"Thunderbolt / Electroweb / Volt Switch",
+            "move2":"Thunderclap",
+            "move3":"Draco Meteor",
+            "move4":"Snarl / Tera Blast"
+            
+          },
+          "evs":{
+            "HP":"244",
+            "AT":"0",
+            "DEF":"108",
+            "SPA":"100",
+            "SPD":"4",
+            "SPEED":"52"
+            
+          }
+          
+          
+        },
+        "2": {
+         "build_name":"Calm mind",
+          "item": "Leftovers",
+          "nature":"Modest",
+          "tera":"fairy",
+          "ability":"protosynthesis",
+          "moves":{
+            "move1":"Thunderclap",
+            "move2":"Dragon Pulse",
+            "move3":"Calm mind",
+            "move4":"Protect / Thunderbolt"
+            
+          },
+          "evs":{
+            "HP":"188",
+            "AT":"0",
+            "DEF":"140",
+            "SPA":"100",
+            "SPD":"68",
+            "SPEED":"12"
+          }
+        },
+        "3":{
+          "build_name":"Attack",
+          "item": "booster energy",
+          "nature":"timid",
+          "tera":"electric / grass",
+          "ability":"protosynthesis",
+          "moves":{
+            "move1":"Thunderbolt",
+            "move2":"Thunderclap",
+            "move3":"Draco Meteor",
+            "move4":"Protect"
+            
+          },
+          "evs":{
+            "HP":"228",
+            "AT":"0",
+            "DEF":"4",
+            "SPA":"180",
+            "SPD":"4",
+            "SPEED":"92"
+          }
+          
+        }
+
+      }
+    }
+    
+
+  ]
+  
+  
+
+  
+}
