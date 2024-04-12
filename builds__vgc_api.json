@@ -193,7 +193,7 @@
           "item": "assault vest",
           "nature":"Impish",
           "tera":"grass / fairy",
-          "ability":"Intimidate",
+          "ability":"intimidate",
           "moves":{
             "move1":"Fake Out",
             "move2":"Flare Blitz",
